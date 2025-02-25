@@ -156,6 +156,5 @@ Agora, é só usar essas super habilidades para fazer suas aplicações interagi
 
 ## Links Úteis 📚
 
-- [Documentação MDN sobre fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Introdução ao JavaScript - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
 - [JSON Placeholder (API para testes)](https://jsonplaceholder.typicode.com/)

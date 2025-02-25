@@ -152,9 +152,3 @@ Agora você está afiado com o básico do `fetch`! 🚀
 
 Agora, é só usar essas super habilidades para fazer suas aplicações interagirem com as APIs e voar alto na programação web! 💻🌍
 
----
-
-## Links Úteis 📚
-
-- [Introdução ao JavaScript - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
-- [JSON Placeholder (API para testes)](https://jsonplaceholder.typicode.com/)

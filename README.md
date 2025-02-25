@@ -140,6 +140,7 @@ fetch('https://api.exemplo.com/arquivo')
 
 ---
 
+
 ## Conclusão 🎉
 
 Agora você está afiado com o básico do `fetch`! 🚀
@@ -150,3 +151,11 @@ Agora você está afiado com o básico do `fetch`! 🚀
 - **async/await** para um código mais limpo e organizado.
 
 Agora, é só usar essas super habilidades para fazer suas aplicações interagirem com as APIs e voar alto na programação web! 💻🌍
+
+---
+
+## Links Úteis 📚
+
+- [Documentação MDN sobre fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Introdução ao JavaScript - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+- [JSON Placeholder (API para testes)](https://jsonplaceholder.typicode.com/)
